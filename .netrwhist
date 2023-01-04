@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/c/Users/himanshu'
+let g:netrw_dirhist_8='/c/Users/himanshu/Code/Projects/Travel Logger/client/src'
+let g:netrw_dirhist_7='/c/Users/himanshu/Code/Projects/Travel Logger/client/src/components'
+let g:netrw_dirhist_6='/c/Users/himanshu/Code/Projects/Travel Logger/client/src'
+let g:netrw_dirhist_5='/c/Users/himanshu/Code/Projects/Travel Logger/client/src/components'
+let g:netrw_dirhist_4='/c/Users/himanshu/Code/Projects/Travel Logger/client/src'
+let g:netrw_dirhist_3='/c/Users/himanshu/Code/Projects/Travel Logger/client/src/components'
+let g:netrw_dirhist_2='/c/Users/himanshu/Code/Projects/Travel Logger/client/src'
+let g:netrw_dirhist_1='/c/Users/himanshu/Code/Projects/Travel Logger/client/src/components'
+let g:netrw_dirhist_0='/c/Users/himanshu/Code/Projects/Travel Logger/client/src'
