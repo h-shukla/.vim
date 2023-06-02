@@ -38,7 +38,7 @@ set wildmenu
 " - Hit tab to :find by partial match
 " - Use * to make it fuzzy
 " wildmode full for cycling through completion by tab-tab
-set wildmode=full,lastused
+set wildmode=full
 " wildignore for stopping nodemodules messing with file find
 set wildignore+=*/node_modules/*,_site,*/__pycache__/,*/venv/*,*/target/*,*/.vim$,\~$,*/.log,*/.aux,*/.cls,*/.aux,*/.bbl,*/.blg,*/.fls,*/.fdb*/,*/.toc,*/.out,*/.glo,*/.log,*/.ist,*/.fdb_latexmk
 
