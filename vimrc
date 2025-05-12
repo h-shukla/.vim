@@ -7,9 +7,7 @@ syntax enable
 filetype plugin on
 
 " better colors
-set termguicolors
-colorscheme desert
-set bg=dark
+set bg=light
 if !has('gui_running')
     set t_Co=256
 endif
